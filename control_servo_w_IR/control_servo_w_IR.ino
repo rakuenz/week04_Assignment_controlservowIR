@@ -1,10 +1,9 @@
 /*
- * IRremote: IRrecvDemo - demonstrates receiving IR codes with IRrecv
- * An IR detector/demodulator must be connected to the input RECV_PIN.
- * Version 0.1 July, 2009
- * Copyright 2009 Ken Shirriff
- * http://arcfn.com
- */
+ * Week 04 Assignment - controlling servo with remote
+   Using Epson Projector IR remote
+   Group Members: Lim Kim
+                  Vick Cai Zhi Xiang
+                  Xin Hao */
 
 #include <IRremote.h> // include IR remote library
 #include <Servo.h>    // include Servo control library
